@@ -4188,7 +4188,7 @@ Section Title
 }
 .call-to-action .outer-box .highlighted:before {
   position: absolute;
-  left: -10px;
+  left: -33px;
   top: 0;
   height: 88px;
   width: 260px;
@@ -5324,9 +5324,9 @@ Section Title
 }
 .testimonial-block-two .info-box {
   position: relative;
-  padding-left: 120px;
+  /* padding-left: 120px; */
   min-height: 90px;
-  margin-top: 90px;
+  margin-top: 20px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -10202,4 +10202,7 @@ Sidebar
 }
 .footer-bottom .copyright-text a:hover {
   color: #ffffff;
+}
+.opacity-0 {
+  opacity: 0;
 }
