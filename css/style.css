@@ -3498,7 +3498,7 @@ Section Title
 }
 .about-section-two .image-column .icon-box {
   position: absolute;
-  right: 0;
+  /* right: 0; */
   top: 0;
   height: 110px;
   width: 110px;
@@ -3555,18 +3555,26 @@ Section Title
   bottom: 0;
 }
 .about-section-two .image-column .image-2:before {
-  position: absolute;
+  /* position: absolute;
   right: -40px;
   height: 40px;
   width: 40px;
   bottom: 90px;
   background-color: var(--bg-theme-color2);
   border-radius: 0 0 10px 0;
+  content: ""; */
+  position: absolute;
+  right: 97px;
+  height: 24px;
+  width: 40px;
+  bottom: 106px;
+  background-color: var(--bg-theme-color2);
+  border-radius: 0 0 10px 0;
   content: "";
 }
 .about-section-two .image-column .image-2 img {
   min-width: 290px;
-  width: 100%;
+  width: 80%;
   border-radius: 10px;
 }
 

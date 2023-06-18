@@ -680,7 +680,7 @@
                   <i class="icon flaticon-customer-service"></i>
                   <strong>Meet Our <br />Expert Agents</strong>
                 </div>
-                <div class="video-box">
+                <div class="video-box d-none">
                   <a
                     href="https://www.youtube.com/watch?v=Fvae8nxzVz4"
                     class="play-now-two lightbox-image"
@@ -787,7 +787,7 @@
                 <div class="contact-form">
                   <h4 class="title">Request a quote</h4>
                   <!--Contact Form-->
-                  <form method="post" action="get" id="contact-form">
+                  <form method="post" action="mailtest.php" id="contact-form">
                     <div class="row">
                       <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                         <label>Your Name:</label>
@@ -803,7 +803,7 @@
                         <label>Your Email:</label>
                         <input
                           type="text"
-                          name="Email"
+                          name="email"
                           placeholder=""
                           required=""
                         />
@@ -813,7 +813,7 @@
                         <label>Phone No:</label>
                         <input
                           type="text"
-                          name="Phone"
+                          name="phone"
                           placeholder=""
                           required=""
                         />
@@ -823,7 +823,7 @@
                         <label>Message:</label>
                         <textarea
                           type="text"
-                          name="Phone"
+                          name="message"
                           placeholder=""
                           required=""
                         ></textarea>
