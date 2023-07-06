@@ -223,7 +223,7 @@
               <div class="image-column col-lg-5 col-md-12 col-sm-12">
                 <div class="image-box">
                   <figure class="image animate-5 animate-x">
-                    <img src="images/resource/truck.png" alt="" />
+                    <img src="images/resource/truck.png" alt="truck" />
                   </figure>
                 </div>
               </div>
@@ -246,7 +246,7 @@
               <div class="image-column col-lg-5 col-md-12 col-sm-12">
                 <div class="image-box">
                   <figure class="image animate-5 animate-x">
-                    <img src="images/resource/truck.png" alt="" />
+                    <img src="images/resource/truck.png" alt="." />
                   </figure>
                 </div>
               </div>
@@ -308,7 +308,7 @@
     <section id="about" class="about-section-two style-two">
       <div class="anim-icons">
         <div class="float-image wow fadeInRight">
-          <img src="images/resource/float-img-4.png" alt="" />
+          <img src="trans6.jpg" alt="" />
         </div>
         <div class="float-text wow zoomInRight">JRTRANSPORT</div>
       </div>
@@ -346,10 +346,10 @@
           <div class="image-column col-lg-6 col-md-12 col-sm-12">
             <div class="inner-column">
               <figure class="image-1">
-                <img src="images/resource/about-3.jpg" alt="" />
+                <img src="mariya.jpg" alt="" />
               </figure>
               <figure class="image-2">
-                <img src="images/resource/about-4.jpg" alt="" />
+                
                 <div class="icon-box">
                   <i class="icon flaticon-delivery-box-4"></i>
                 </div>
@@ -524,7 +524,7 @@
     <!--End Services Section -->
 
     <!-- Call To Action Two -->
-    <section class="call-to-action style-two" style="background-image: url(images/background/2.jpg)">
+    <section class="call-to-action style-two" style="background-image: url(trans2.jpg)">
       <div class="auto-container">
         <div class="outer-box">
           <div class="sec-title text-center light mb-0">
@@ -542,7 +542,7 @@
 
     <!-- Why Choose Us -->
     <section class="why-choose-us-two">
-      <div class="bg-image" style="background-image: url(images/background/6.jpg)"></div>
+      <div class="bg-image" style="background-image: url(trans3.jpeg)"></div>
       <div class="bg-shape">
         <div class="shape" style="background-image: url(images/icons/bg-shape.png)"></div>
       </div>
