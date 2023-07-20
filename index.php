@@ -68,7 +68,7 @@
         <div class="main-box">
           <div class="logo-box">
             <div class="logo">
-              <a href="index.html.htm"><img src="images/logo-3.png" alt="" title="Tronis" /></a>
+              <a href="index.html.htm"><img src="images/logo.png" alt="" title="Tronis" /></a>
             </div>
           </div>
 
@@ -818,7 +818,7 @@
             <div class="footer-column col-xl-3 col-lg-12 col-md-6 col-sm-12 mx-auto">
               <div class="footer-widget about-widget">
                 <div class="logo">
-                  <a href="index.html.htm"><img src="images/logo-2.png" alt="" /></a>
+                  <a href="index.html.htm"><img src="images/logo.png" style="filter:invert(1);height: 150px;" alt="" /></a>
                 </div>
                 <div class="text">
                   JR Transport: Simplifying Your Journeys with Reliable and
@@ -858,7 +858,7 @@
               </p>
             </div>
 
-            <ul class="social-icon-two">
+            <!-- <ul class="social-icon-two">
               <li>
                 <a href="#"><i class="fab fa-facebook-f"></i></a>
               </li>
@@ -868,7 +868,7 @@
               <li>
                 <a href="#"><i class="fab fa-instagram"></i></a>
               </li>
-            </ul>
+            </ul> -->
           </div>
         </div>
       </div>

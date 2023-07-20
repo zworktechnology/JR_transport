@@ -361,16 +361,16 @@ p, .text {
 
 .preloader:after {
   position: absolute;
-  left: 50%;
-  top: 50%;
-  height: 100px;
-  width: 100px;
+  left: 38%;
+  top: 22%;
+  height: 500px;
+  width: 500px;
   margin-left: -50px;
   margin-top: -60px;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url(../images/icons/preloader.gif);
-  background-size: 64px;
+  background-image: url(../images/logo.png);
+  background-size: 289px;
   content: "";
 }
 
@@ -387,7 +387,7 @@ p, .text {
   font-weight: 700;
   font-size: 12px;
   letter-spacing: 1px;
-  content: "Loading";
+  /* content: "Loading"; */
   text-transform: uppercase;
   -webkit-transition: none;
   transition: none;
@@ -1878,7 +1878,7 @@ Main Header
 }
 .main-header .logo img {
   max-width: 100%;
-  height: auto;
+  height: 80px;
 }
 .main-header .main-box {
   position: relative;
@@ -2280,7 +2280,7 @@ Sticky Header
   padding: 10px 0;
 }
 .sticky-header .logo img {
-  max-height: 40px;
+  max-height: 65px;
 }
 .sticky-header .nav-outer {
   position: relative;
@@ -9968,11 +9968,11 @@ Sidebar
 /* Widget Section */
 .main-footer .widgets-section {
   position: relative;
-  padding: 100px 0 45px;
+  padding: 25px 0 10px;
 }
 .main-footer .footer-column {
   position: relative;
-  margin-bottom: 40px;
+  margin-bottom: ;
 }
 .main-footer .footer-widget {
   position: relative;
@@ -10194,7 +10194,7 @@ Sidebar
 }
 .footer-bottom .copyright-text {
   position: relative;
-  padding: 25px 0;
+  padding: 21px 0 9px 0;
 }
 .footer-bottom .copyright-text p {
   position: relative;
