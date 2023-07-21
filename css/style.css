@@ -3661,7 +3661,7 @@ Section Title
   color: var(--theme-color3-light);
 }
 .about-section-two.style-two .image-column .inner-column {
-  margin-top: -140px;
+  /* margin-top: -140px; */
   padding-top: 0;
 }
 .about-section-two.style-two .image-column .inner-column .image-1:before {
