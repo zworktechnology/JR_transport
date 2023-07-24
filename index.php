@@ -9,8 +9,8 @@
   <link href="css/style.css" rel="stylesheet" />
   <link href="css/responsive.css" rel="stylesheet" />
 
-  <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
-  <link rel="icon" href="images/favicon.png" type="image/x-icon" />
+  <link rel="shortcut icon" href="images/logo.png" type="image/x-icon" />
+  <link rel="icon" href="images/logo.png" type="image/x-icon" />
 
   <!-- Responsive -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -36,7 +36,7 @@
             </li>
             <li>
               <i class="fa fa-clock"></i><a href="javascript:void(0)" style="color: black">
-                Mon - Sat: 8 Am - 7 Pm</a>
+                Mon - Sat: 08 Am - 07 Pm</a>
             </li>
             <li>
               <i class="fa fa-phone-square"></i><a href="tel:+917358996250" style="color: black">
@@ -134,8 +134,8 @@
               <!-- Contact Info Box -->
               <div class="contact-info-box">
                 <span class="icon lnr-icon-clock"></span>
-                <span class="title">Send Email</span>
-                Mon - Sat 8:00 - 7:00
+                <span class="title">Mon - Sat</span>
+                Mon - Sat 08 Am - 07 Pm
               </div>
             </li>
           </ul>
@@ -216,7 +216,7 @@
               <div class="content-column col-lg-7 col-md-12 col-sm-12">
                 <div class="content-box">
                   <h2 class="title animate-3">
-                    "Seamless Journeys, Every Time."
+                    "Seamless Journeys, Every Time"
                   </h2>
                 </div>
               </div>
@@ -239,7 +239,7 @@
               <div class="content-column col-lg-7 col-md-12 col-sm-12">
                 <div class="content-box">
                   <h2 class="title animate-3">
-                    "Connecting People, Delivering Excellence."
+                    "Connecting People, Delivering Excellence"
                   </h2>
                 </div>
               </div>
@@ -265,7 +265,7 @@
             <div class="title-box">
               <h4 class="title">
                 JR Transport aims to<br />
-                "Simplify Your Transportation Needs.
+                "Simplify Your Transportation Needs"
               </h4>
             </div>
           </div>
@@ -285,7 +285,7 @@
                 <div class="inner">
                   <i class="icon flaticon-delivery-insurance-3"></i>
                   <h4 class="title">
-                    Quick Transport <span class="opacity-0">jerome</span>
+                  On-Time Delivery 
                   </h4>
                 </div>
               </div>
@@ -294,7 +294,7 @@
               <div class="feature-block-three col-lg-4 col-md-4 col-sm-12">
                 <div class="inner">
                   <i class="icon flaticon-delivery-box-3"></i>
-                  <h4 class="title">On-Time Delivery</h4>
+                  <h4 class="title">Quick Transport Service</h4>
                 </div>
               </div>
             </div>
@@ -308,7 +308,7 @@
     <section id="about" class="about-section-two style-two">
       <div class="anim-icons">
         <div class="float-image wow fadeInRight">
-          <img src="trans6.jpg" alt="" />
+          <img src="trans6.png" alt="" />
         </div>
         <div class="float-text wow zoomInRight">JRTRANSPORT</div>
       </div>
@@ -385,7 +385,7 @@
               <div class="content-box">
                 <span class="sub-title">01 Service</span>
                 <h4 class="title">
-                  <a href="page-service-details.html.htm">SAND</a>
+                  <a href="page-service-details.html.htm">RIVER SAND</a>
                 </h4>
               </div>
             </div>
@@ -530,8 +530,8 @@
           <div class="sec-title text-center light mb-0">
             <div class="sub-title">Get in touch with us anytime</div>
             <h1>
-              Tired of Settling for Superior Logistics Solutions?
-              <br />Contact Us <span class="highlighted">Now!</span>
+              Tired of Settling for Superior Logistics Solutions? Contact Us 
+              <br><span class="highlighted">&nbsp;Now!</span>
             </h1>
             <a href="https://api.whatsapp.com/send/?phone=%2B917358996250&text=Hi Jose Edsion,  I need want your services, could you kindly share your pricing list with me?" target="_blank" class="theme-btn btn-style-one hvr-light"><span class="btn-title">Chat with us</span></a>
           </div>
@@ -542,7 +542,7 @@
 
     <!-- Why Choose Us -->
     <section class="why-choose-us-two">
-      <div class="bg-image" style="background-image: url(trans3.jpeg)"></div>
+      <div class="bg-image" style="background-image: url(trans3.jpg)"></div>
       <div class="bg-shape">
         <div class="shape" style="background-image: url(images/icons/bg-shape.png)"></div>
       </div>
@@ -577,7 +577,7 @@
                     <i class="icon flaticon-delivery-box-4"></i>
                     <h4 class="title">Safety & <br />reliable service</h4>
                     <p class="text">
-                      Nullam mollis elit quis dus is lacinia not efficitur
+                      Safety and low cost of transport
                     </p>
                   </div>
                 </div>
@@ -586,9 +586,9 @@
                 <div class="feature-block-four col-lg-6 col-md-6 col-sm-12">
                   <div class="inner-box">
                     <i class="icon flaticon-international-shipping-3"></i>
-                    <h4 class="title">Real time <br />tracking system</h4>
+                    <h4 class="title">Timely <br />delivery system</h4>
                     <p class="text">
-                      Nullam mollis elit quis dus is lacinia not efficitur
+                      Quick and timely delivery
                     </p>
                   </div>
                 </div>
@@ -604,7 +604,7 @@
             <div class="inner-column">
               <div class="info-box bounce-y">
                 <i class="icon flaticon-customer-service"></i>
-                <strong>Meet Our <br />Expert Agents</strong>
+                <strong>Call at anytime: <br />+91 73589 96250</strong>
               </div>
               <div class="video-box d-none">
                 <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="play-now-two lightbox-image"><i class="icon fa fa-play"></i></a>
@@ -619,7 +619,7 @@
 
     <!-- Testimonial Section -->
     <section id="contact" class="testimonial-section-two">
-      <div class="bg-image" style="background-image: url(images/background/7.jpg)"></div>
+      <div class="bg-image" style="background-image: url(images/background/4.jpg)"></div>
       <div class="anim-icons">
         <span class="icon icon-plane-1 bounce-y"></span>
         <div class="icon float-image wow fadeInRight">
@@ -745,12 +745,12 @@
     <!-- Call To Action Two -->
     <section class="call-to-action-two pt-0" style="margin-top: 100px">
       <div class="auto-container">
-        <div class="outer-box wow fadeIn" style="background-image: url(images/background/8.jpg)">
+        <div class="outer-box wow fadeIn" style="background-image: url(images/background/3.jpg)">
           <div class="title-box">
             <h3 class="title">Need To Reach Us Quick?</h3>
           </div>
           <div class="btn-box">
-            <a href="#" class="theme-btn btn-style-two hvr-light"><span class="btn-title">Book a call now</span></a>
+            <a href="https://api.whatsapp.com/send/?phone=%2B917358996250&text=Hi Jose Edsion,  I need want your services, could you kindly share your pricing list with me?" class="theme-btn btn-style-two hvr-light"><span class="btn-title">Chat With Us</span></a>
           </div>
         </div>
       </div>
@@ -759,7 +759,7 @@
 
     <!-- Main Footer -->
     <footer class="main-footer">
-      <div class="bg-image" style="background-image: url(images/background/5.jpg)"></div>
+      <div class="bg-image" style="background-image: url(images/footer.webp)"></div>
       <div class="anim-icons">
         <span class="icon icon-plane-3"></span>
       </div>
