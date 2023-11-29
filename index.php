@@ -276,7 +276,7 @@
               <div class="feature-block-three col-lg-4 col-md-4 col-sm-12">
                 <div class="inner">
                   <i class="icon flaticon-delivery-courier"></i>
-                  <h4 class="title">Cost Optimisation</h4>
+                  <h4 class="title">Cost Optimization</h4>
                 </div>
               </div>
 
@@ -310,7 +310,7 @@
         <div class="float-image wow fadeInRight">
           <img src="trans6.png" alt="" />
         </div>
-        <div class="float-text wow zoomInRight">JRTRANSPORT</div>
+        <div class="float-text wow zoomInRight">JR TRANSPORT</div>
       </div>
 
       <div class="auto-container">
@@ -367,7 +367,7 @@
 
       <div class="auto-container">
         <div class="sec-title text-center">
-          <span class="sub-title text-uppercase">Spicalised Transport Service</span>
+          <span class="sub-title text-uppercase">Specialized Transport Service</span>
           <h2>We Got you for all Your Needs</h2>
         </div>
 
